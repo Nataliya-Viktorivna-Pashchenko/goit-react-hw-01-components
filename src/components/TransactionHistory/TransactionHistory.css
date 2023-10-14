@@ -1,0 +1,21 @@
+.transaction-history{
+border-collapse: collapse;
+    width: 350px;
+       font-size: 15px;
+}
+
+.titleTab{
+    background-color: #17c7f3;
+    color: #ffffff;
+    height: 40px;
+}
+
+.itemTab {
+   
+    color: #6c6767;
+}
+tr, td {
+    border: 1px solid #ddd;
+    padding: 5px;
+        text-align: center;
+}
